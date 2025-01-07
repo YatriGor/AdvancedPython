@@ -1,0 +1,50 @@
+{
+  "country": "australia",
+  "data": [
+      {
+          "date": "1-06-2020",
+          "confirmed_cases": {
+              "total": 120000,
+              "new": 342
+          },
+          "deaths": {
+              "total": 25030,
+              "new": 520
+          },
+          "recovered": {
+              "total": 1630,
+              "new": 166
+          }
+      },
+      {
+          "date": "2-06-2020",
+          "confirmed_cases": {
+              "total": 120342,
+              "new": 342
+          },
+          "deaths": {
+              "total": 25550,
+              "new": 520
+          },
+          "recovered": {
+              "total": 1796,
+              "new": 166
+          }
+      },
+      {
+          "date": "3-06-2020",
+          "confirmed_cases": {
+              "total": 120685,
+              "new": 343
+          },
+          "deaths": {
+              "total": 26070,
+              "new": 520
+          },
+          "recovered": {
+              "total": 1962,
+              "new": 166
+          }
+      }
+  ]
+}

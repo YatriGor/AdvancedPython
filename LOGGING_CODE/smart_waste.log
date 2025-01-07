@@ -1,0 +1,30 @@
+2024-10-14 14:34:13,092 - INFO - Smart Waste Management System started.
+2024-10-14 14:34:20,772 - INFO - User input received: organic
+2024-10-14 14:34:20,772 - INFO - Valid entry found: {'type': 'organic', 'quantity': 10}
+2024-10-14 14:34:20,772 - INFO - Data successfully saved to the database.
+2024-10-14 14:34:20,772 - INFO - Smart Waste Management System finished.
+2024-10-14 14:34:26,000 - INFO - Smart Waste Management System started.
+2024-10-14 14:34:31,994 - INFO - User input received: recyclable
+2024-10-14 14:34:31,994 - INFO - Valid entry found: {'type': 'recyclable', 'quantity': 10}
+2024-10-14 14:34:31,994 - INFO - Data successfully saved to the database.
+2024-10-14 14:34:31,994 - INFO - Smart Waste Management System finished.
+2024-10-14 14:34:45,838 - INFO - Smart Waste Management System started.
+2024-10-14 14:34:48,005 - WARNING - Invalid input received: plastic
+2024-10-14 14:34:48,005 - ERROR - Exception occurred during input processing: Invalid waste type
+2024-10-14 14:34:48,005 - INFO - Smart Waste Management System finished.
+2024-10-14 14:34:53,517 - INFO - Smart Waste Management System started.
+2024-10-14 14:34:54,255 - WARNING - Invalid input received: 
+2024-10-14 14:34:54,256 - ERROR - Exception occurred during input processing: Invalid waste type
+2024-10-14 14:34:54,256 - INFO - Smart Waste Management System finished.
+2024-10-14 15:11:38,249 - INFO - Smart Waste Management System started.
+2024-10-14 15:11:42,677 - INFO - User input received: organic
+2024-10-14 15:11:49,918 - INFO - User input received for quantity: 103
+2024-10-14 15:11:49,918 - INFO - Valid entry found: {'type': 'organic', 'quantity': 103}
+2024-10-14 15:11:49,918 - INFO - Data successfully saved to the database.
+2024-10-14 15:11:49,918 - INFO - Smart Waste Management System finished.
+2024-10-14 15:11:55,727 - INFO - Smart Waste Management System started.
+2024-10-14 15:12:09,267 - INFO - User input received: recyclable
+2024-10-14 15:12:11,258 - INFO - User input received for quantity: 560
+2024-10-14 15:12:11,258 - INFO - Valid entry found: {'type': 'recyclable', 'quantity': 560}
+2024-10-14 15:12:11,258 - INFO - Data successfully saved to the database.
+2024-10-14 15:12:11,258 - INFO - Smart Waste Management System finished.

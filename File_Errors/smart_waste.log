@@ -1,0 +1,6 @@
+2024-10-14 15:42:51,461 - INFO - Smart Waste Management System started.
+2024-10-14 15:44:16,569 - INFO - User input received: organic
+2024-10-14 15:44:23,933 - INFO - User input received for quantity: 32
+2024-10-14 15:44:23,933 - INFO - Valid entry found: {'type': 'organic', 'quantity': 32}
+2024-10-14 15:44:23,948 - INFO - Data successfully saved to the database.
+2024-10-14 15:44:23,948 - INFO - Smart Waste Management System finished.

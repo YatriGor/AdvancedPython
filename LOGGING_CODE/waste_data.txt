@@ -1,0 +1,4 @@
+{'type': 'organic', 'quantity': 10}
+{'type': 'recyclable', 'quantity': 10}
+{'type': 'organic', 'quantity': 103}
+{'type': 'recyclable', 'quantity': 560}

@@ -1,0 +1,15 @@
+Total Reviews Processed: 10
+Total Valid Reviews: 8
+Total Invalid Reviews: 2
+
+Average Ratings:
+Product ID: A001234570, Average Rating: 3.15
+Product ID: A001234568, Average Rating: 4.50
+Product ID: A001234573, Average Rating: 3.15
+Product ID: A001234571, Average Rating: 4.85
+Product ID: A001234576, Average Rating: 3.50
+
+Top 3 Products with Highest Average Ratings:
+Product ID: A001234571, Average Rating: 4.85
+Product ID: A001234568, Average Rating: 4.50
+Product ID: A001234576, Average Rating: 3.50

@@ -1,0 +1,50 @@
+{
+  "country": "brazil",
+  "data": [
+    {
+      "date": "25-05-2020",
+      "confirmed_cases": {
+        "total": 126000,
+        "new": 456
+      },
+      "deaths": {
+        "total": 15030,
+        "new": 522
+      },
+      "recovered": {
+        "total": 3460,
+        "new": 56
+      }
+    },
+    {
+      "date": "26-05-2020",
+      "confirmed_cases": {
+        "total": 127000,
+        "new": 1000
+      },
+      "deaths": {
+        "total": 15500,
+        "new": 470
+      },
+      "recovered": {
+        "total": 4000,
+        "new": 540
+      }
+    },
+    {
+      "date": "27-05-2020",
+      "confirmed_cases": {
+        "total": 128500,
+        "new": 1500
+      },
+      "deaths": {
+        "total": 15900,
+        "new": 400
+      },
+      "recovered": {
+        "total": 4500,
+        "new": 500
+      }
+    }
+  ]
+}

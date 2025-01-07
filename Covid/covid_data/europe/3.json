@@ -1,0 +1,50 @@
+{
+  "country": "italy",
+  "data": [
+    {
+      "date": "15-03-2020",
+      "confirmed_cases": {
+        "total": 15000,
+        "new": 300
+      },
+      "deaths": {
+        "total": 2500,
+        "new": 50
+      },
+      "recovered": {
+        "total": 1000,
+        "new": 100
+      }
+    },
+    {
+      "date": "16-03-2020",
+      "confirmed_cases": {
+        "total": 15300,
+        "new": 300
+      },
+      "deaths": {
+        "total": 2550,
+        "new": 50
+      },
+      "recovered": {
+        "total": 1100,
+        "new": 100
+      }
+    },
+    {
+      "date": "17-03-2020",
+      "confirmed_cases": {
+        "total": 15600,
+        "new": 300
+      },
+      "deaths": {
+        "total": 2600,
+        "new": 50
+      },
+      "recovered": {
+        "total": 1200,
+        "new": 100
+      }
+    }
+  ]
+}

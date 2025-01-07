@@ -1,0 +1,50 @@
+{
+  "country": "india",
+  "data": [
+    {
+      "date": "01-01-2020",
+      "confirmed_cases": {
+        "total": 1000,
+        "new": 50
+      },
+      "deaths": {
+        "total": 20,
+        "new": 2
+      },
+      "recovered": {
+        "total": 800,
+        "new": 30
+      }
+    },
+    {
+      "date": "02-01-2020",
+      "confirmed_cases": {
+        "total": 1100,
+        "new": 100
+      },
+      "deaths": {
+        "total": 22,
+        "new": 2
+      },
+      "recovered": {
+        "total": 850,
+        "new": 50
+      }
+    },
+    {
+      "date": "03-01-2020",
+      "confirmed_cases": {
+        "total": 1200,
+        "new": 100
+      },
+      "deaths": {
+        "total": 24,
+        "new": 2
+      },
+      "recovered": {
+        "total": 900,
+        "new": 50
+      }
+    }
+  ]
+}

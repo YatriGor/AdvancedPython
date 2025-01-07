@@ -1,0 +1,8 @@
+trainId,train name,source station,destination station,total seats
+TRN001,Rajdhani Express,New Delhi,Mumbai Central,500
+TRN001,Rajdhani Express,New Delhi,Jaipur,200
+TRN001,Rajdhani Express,Jaipur,Mumbai Central,300
+TRN002,Shatabdi Express,Chennai Central,Bangalore City,400
+TRN003,Duronto Express,Howrah Junction,Sealdah,350
+TRN004,Garib Rath,Secunderabad Junction,Visakhapatnam,600
+TRN005,Tejas Express,Lucknow Junction,New Delhi,450

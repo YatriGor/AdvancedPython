@@ -1,0 +1,50 @@
+{
+  "country": "usa",
+  "data": [
+    {
+      "date": "20-04-2020",
+      "confirmed_cases": {
+        "total": 20000,
+        "new": 500
+      },
+      "deaths": {
+        "total": 3000,
+        "new": 100
+      },
+      "recovered": {
+        "total": 5000,
+        "new": 200
+      }
+    },
+    {
+      "date": "21-04-2020",
+      "confirmed_cases": {
+        "total": 20500,
+        "new": 500
+      },
+      "deaths": {
+        "total": 3100,
+        "new": 100
+      },
+      "recovered": {
+        "total": 5200,
+        "new": 200
+      }
+    },
+    {
+      "date": "22-04-2020",
+      "confirmed_cases": {
+        "total": 21000,
+        "new": 500
+      },
+      "deaths": {
+        "total": 3200,
+        "new": 100
+      },
+      "recovered": {
+        "total": 5400,
+        "new": 200
+      }
+    }
+  ]
+}

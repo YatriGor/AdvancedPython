@@ -1,0 +1,50 @@
+{
+  "country": "germany",
+  "data": [
+    {
+      "date": "10-11-2019",
+      "confirmed_cases": {
+        "total": 2355,
+        "new": 8
+      },
+      "deaths": {
+        "total": 34,
+        "new": 2
+      },
+      "recovered": {
+        "total": 60,
+        "new": 3
+      }
+    },
+    {
+      "date": "11-11-2019",
+      "confirmed_cases": {
+        "total": 1013,
+        "new": 100
+      },
+      "deaths": {
+        "total": 202,
+        "new": 20
+      },
+      "recovered": {
+        "total": 90,
+        "new": 10
+      }
+    },
+    {
+      "date": "12-11-2019",
+      "confirmed_cases": {
+        "total": 1023,
+        "new": 140
+      },
+      "deaths": {
+        "total": 240,
+        "new": 2
+      },
+      "recovered": {
+        "total": 18,
+        "new": 23
+      }
+    }
+  ]
+}

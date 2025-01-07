@@ -1,0 +1,14 @@
+Total Reviews Processed: 5
+Total Valid Reviews: 5
+Total Invalid Reviews: 0
+
+Average Ratings:
+Product ID: 101, Average Rating: 4.75
+Product ID: 102, Average Rating: 3.00
+Product ID: 103, Average Rating: 2.00
+Product ID: 104, Average Rating: 4.00
+
+Top 3 Products with Highest Average Ratings:
+Product ID: 101, Average Rating: 4.75
+Product ID: 104, Average Rating: 4.00
+Product ID: 102, Average Rating: 3.00

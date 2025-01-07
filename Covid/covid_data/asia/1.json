@@ -1,0 +1,50 @@
+{
+  "country": "china",
+  "data": [
+    {
+      "date": "10-11-2019",
+      "confirmed_cases": {
+        "total": 10000,
+        "new": 82
+      },
+      "deaths": {
+        "total": 2000,
+        "new": 20
+      },
+      "recovered": {
+        "total": 80,
+        "new": 3
+      }
+    },
+    {
+      "date": "11-11-2019",
+      "confirmed_cases": {
+        "total": 10100,
+        "new": 100
+      },
+      "deaths": {
+        "total": 2020,
+        "new": 20
+      },
+      "recovered": {
+        "total": 90,
+        "new": 10
+      }
+    },
+    {
+      "date": "12-11-2019",
+      "confirmed_cases": {
+        "total": 10200,
+        "new": 100
+      },
+      "deaths": {
+        "total": 2040,
+        "new": 20
+      },
+      "recovered": {
+        "total": 110,
+        "new": 20
+      }
+    }
+  ]
+}
